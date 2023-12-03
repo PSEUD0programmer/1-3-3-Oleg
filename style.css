@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+}
+
+section {
+    border: 1px solid black;
+}
+
+.main-header {
+    padding-left: 10px;
+    font-size: 56px;
+    text-align: center;
+    color: #365f91;
+    font-family: serif;
+    margin-bottom: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-size: 20px;
+    margin: 20px 10px;
+}
+
+.lead strong {
+    text-decoration: underline;
+}
+
+li {
+    margin: 10px 50px;
+    color: #365f91;
+    list-style: square;
+}
+
+li li {
+    list-style: circle;
+}
+
+blockquote {
+    padding: 10px;
+    background-image: url("https://netology-code.github.io/wm-homeworks/text/images/wm-2-2-bg.jpg");
+    color: #494429;
+    font-style: italic;
+    font-family: serif;
+}
